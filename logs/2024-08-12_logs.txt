@@ -1,0 +1,17 @@
+[2024-08-12 14:19:03.770]   INFO:  Start get_response at 2024-08-12 14:19:03.770876
+[2024-08-12 14:19:03.774]  DEBUG:  Starting new HTTP connection (1): wiki.mfc63.ru:80
+[2024-08-12 14:19:03.827]  DEBUG:  http://wiki.mfc63.ru:80 "GET /baza.aspx HTTP/11" 200 22527
+[2024-08-12 14:19:03.827]   INFO:  Finish get_response at 2024-08-12 14:19:03.827875
+[2024-08-12 14:19:03.827]   INFO:  get_response execution time 0.057
+[2024-08-12 14:29:48.089]   INFO:  Start get_response at 2024-08-12 14:29:48.089558
+[2024-08-12 14:29:48.091]  DEBUG:  Starting new HTTP connection (1): wiki.mfc63.ru:80
+[2024-08-12 14:29:48.153]  DEBUG:  http://wiki.mfc63.ru:80 "GET /baza.aspx HTTP/11" 200 22527
+[2024-08-12 14:29:48.154]   INFO:  Finish get_response at 2024-08-12 14:29:48.154556
+[2024-08-12 14:29:48.154]   INFO:  get_response execution time 0.064
+[2024-08-12 14:31:42.841]   INFO:  Start get_response at 2024-08-12 14:31:42.841159
+[2024-08-12 14:31:42.842]  DEBUG:  Starting new HTTP connection (1): wiki.mfc63.ru:80
+[2024-08-12 14:31:42.926]  DEBUG:  http://wiki.mfc63.ru:80 "GET /baza.aspx HTTP/11" 200 22527
+[2024-08-12 14:31:42.926]   INFO:  Finish get_response at 2024-08-12 14:31:42.926682
+[2024-08-12 14:31:42.927]   INFO:  get_response execution time 0.086
+[2024-08-12 14:36:40.121]  DEBUG:  Starting new HTTP connection (1): wiki.mfc63.ru:80
+[2024-08-12 14:36:40.224]  DEBUG:  http://wiki.mfc63.ru:80 "POST /login.aspx HTTP/11" 200 4321
